@@ -1,0 +1,12 @@
+﻿IP,C01_Hostname,C02_OS,C03_Vendor,C04_Model,C05_IDC,C06_Room,C07_Row,C08_Rack,C09_Hole,C10_Purpose,C11_Switch,C12_PortType,C13_PortNo,C14_Svc1,C15_Svc2,C16_SvrGrp
+1.1.1.1,host1,Linux 1.1,VENDOR1,MODEL-1,서울-1,삼성5층-A,A01,R01,4,서비스,,,,서비스 1,Service 1,SvrGrp 1
+1.1.1.4,host4,Linux 1.4,VENDOR4,MODEL-4,서울-4,삼성4층-B,A04,R22,11,서비스,,,,서비스 4,Service 4,Grp 5
+1.1.1.5,host5,Linux 1.5,VENDOR5,MODEL-5,서울-5,삼성5층-A,A05,R21,23,서비스,,,,서비스 5,Service 5,Grp 1
+1.1.1.6,host5,Linux 1.5,VENDOR5,MODEL-5,서울-5,삼성5층-A,A05,R21,23,서비스,,,,서비스 5,Service 5,Grp 1
+1.1.1.7,host5,Linux 1.5,VENDOR5,MODEL-5,서울-5,삼성5층-A,A05,R21,23,서비스,,,,서비스 5,Service 5,Grp 1
+1.1.1.10,host7,Linux 1.7,VENDOR7,MODEL-7,서울-7,삼성5층-A,E07,R21,12,서비스,,,,서비스 7,Service 7,그룹 6
+1.1.1.11,host8,Linux 1.8,VENDOR8,MODEL-8,서울-8,삼성4층-B,B07,R17,5,서비스,,,,서비스 8,Service 8,그룹 8
+1.1.1.12,host9,Linux 1.9,VENDOR9,MODEL-9,서울-9,삼성5층-A,B08,R21,13,서비스,,,,서비스 9,Service 9,그룹 8
+1.1.1.13,host10,Linux 1.10,VENDOR10,MODEL-10,서울-10,삼성4층-B,A05,R04,28,개발,,,,서비스 10,Service 10,그룹 7
+1.1.1.14,host11,Linux 1.11,VENDOR11,MODEL-11,서울-11,삼성5층-A,B10,R04,29,서비스,,,,서비스 11,Service 11,그룹 4
+1.1.1.15,host12,Linux 1.12,VENDOR12,MODEL-12,서울-12,삼성4층-B,E05,R07,26,서비스,,,,서비스 12 > 서비스 121,Service 12,Grp 5
